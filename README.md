@@ -2,8 +2,10 @@
 
 
 
+https://github.com/Almightyoo/Counterfactual-Regret-Minimization/assets/117665293/b035ec27-9b06-480a-a04f-013addfafc32
 
-https://github.com/Almightyoo/Counterfactual-Regret-Minimization/assets/117665293/9dc93354-6463-4bac-bd0b-dab1b21ad8a6
+
+
 
 
 
